@@ -1,2 +1,2 @@
 # go-errors-handling
-How to handle errors in Go
+Example of how to handle errors in Go
